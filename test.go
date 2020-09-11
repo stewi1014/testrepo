@@ -3,5 +3,5 @@ package testrepo
 import "fmt"
 
 func Print() {
-	fmt.Println("v2.0.0")
+	fmt.Println("v3.0.0")
 }
